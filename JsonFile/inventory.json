@@ -1,0 +1,44 @@
+{
+	
+		"Rice": [
+			{
+				"Type" : "Rice",
+				"Name": "Basamati",
+				"WeightInKg": 3.5,
+				"Price": 100.12
+			},
+			{	
+				"Type": "Rice",
+				"Name": "Kohinoor",
+				"WeightInKg": 5.5,
+				"Price": 120.54
+			}
+		],
+		"Pulses": [
+			{
+				"Type": "Pulses",
+				"Name": "Green Gram",
+				"WeightInKg": 12.2,
+				"Price": 60.12
+			},
+		{
+				"Type": "Pulses",
+				"Name": "Lentil",
+				"WeightInKg": 5.12,
+				"Price": 70.12
+			}
+		],
+		"Wheat": [
+			{	
+				"Type": "Wheat",
+				"Name": "Common Wheat",
+				"WeightInKg": 4.02,
+				"Price": 40.45
+			},
+			{	"Type": "Wheat",
+				"Name": "Durum wheat",
+				"WeightInKg": 1.12,
+				"Price": 80.25
+			}
+		]
+	}
